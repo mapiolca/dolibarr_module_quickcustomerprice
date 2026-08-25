@@ -4,6 +4,7 @@
 
 ## Release 3.8
 
+- FIX : Remove the obsolete dynamic descriptor property on PHP 8.2 - *25/08/2026* - 3.8.4
 - FIX : Add into showinputfields object id to query sql - *24/02/2025* - 3.8.2
 - FIX : Compat V21 - *05/12/2024* - 3.8.1
 - FIX (130) : Retrocompatibilité V16 - **05/12/2024** - 3.8.1
